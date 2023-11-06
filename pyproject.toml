@@ -2,7 +2,7 @@
 name = "fastdownloader"
 version = "0.1.0"
 description = ""
-authors = ["BarsTiger <kit.barsic@gmail.com>"]
+authors = ["BarsTiger"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
