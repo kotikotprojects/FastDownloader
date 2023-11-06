@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "fastdownloader"
+version = "0.1.0"
+description = ""
+authors = ["BarsTiger <kit.barsic@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+aiohttp = "^3.8.6"
+aiofiles = "^23.2.1"
+tqdm = "^4.66.1"
+
+[tool.poetry.scripts]
+fastdl = "fastdownloader:main"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
