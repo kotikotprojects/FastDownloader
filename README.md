@@ -3,6 +3,7 @@ Download files from the internet with a simple command line interface.
 Will significantly speed up loading from sites that slow down single-threaded 
 download speeds. Applicable to cdn of sites with pirated films, for example.
 
+
 ## Installation
 - Install [pipx](https://pypa.github.io/pipx/installation/)
 - Run `pipx install git+https://codeberg.org/kotikotprojects/FastDownloader`
