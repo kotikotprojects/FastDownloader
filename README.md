@@ -5,7 +5,7 @@ download speeds. Applicable to cdn of sites with pirated films, for example.
 
 ## Installation
 - Install [pipx](https://pypa.github.io/pipx/installation/)
-- Run `pipx install git+https://github.com/BarsTiger/FastDownloader`
+- Run `pipx install git+https://codeberg.org/kotikotprojects/FastDownloader`
 
 ## Usage
 Provide direct link to file as argument.
