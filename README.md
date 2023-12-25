@@ -4,7 +4,7 @@ Will significantly speed up loading from sites that slow down single-threaded
 download speeds. Applicable to cdn of sites with pirated films, for example.
 
 ## Installation
-- Install [pipx](https://pypa.github.io/pipx/installation/)
+- Install [pipx](https://pipx.pypa.io/stable/installation/)
 - Run `pipx install git+https://github.com/kotikotprojects/FastDownloader`
 
 ## Usage
